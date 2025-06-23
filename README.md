@@ -25,6 +25,10 @@ This is the final capstone project demonstrating React fundamentals including:
 - Modern UI with smooth animations
 - Dark/Light theme support
 
+## Live Preview
+
+[https://paradise-nursery-shopping-applicati.vercel.app/](https://paradise-nursery-shopping-applicati.vercel.app/)
+
 ## Tech Stack
 
 - React 18
